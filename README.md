@@ -104,7 +104,7 @@ Hypothesis testing confirms a statistically significant difference between the t
 
 ## Repository Structure
 
-vendor-performance-analysis-powerbi/
+'''' vendor-performance-analysis-powerbi/
 │
 ├── data/
 │ └── vendor_data_cleaned.csv
@@ -120,3 +120,4 @@ vendor-performance-analysis-powerbi/
 │ └── vendor_profit_analysis.png
 │
 └── README.md
+'''
