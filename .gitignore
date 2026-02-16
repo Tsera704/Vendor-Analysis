@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+venv/
+.env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbix.autosave
+
+# Large files (optional if needed)
+*.zip
+
+# IDE folders
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
